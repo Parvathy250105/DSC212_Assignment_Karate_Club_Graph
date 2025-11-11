@@ -1,4 +1,8 @@
 # Community Detection in Zachary's Karate Club using Spectral Modularity
+---
+#### - Parvathy Suresh Menon
+#### - IMS24165
+---
 
 ## 1. Project Overview
 
